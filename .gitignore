@@ -1,0 +1,5 @@
+# Auto generated files and folders.
+.DS_Store
+.vscode/
+.venv/
+data/
